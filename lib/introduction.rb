@@ -6,8 +6,7 @@ def introduction (name)
   puts "Hi, my name name is {name}."
 end
 
-name = "Jamal"
-say_name ("Jamal")
+introduction("Jamal")
 
 
 
