@@ -6,6 +6,8 @@ def say_name (name)
   "Hi my name name is {name}."
 end
 
+say_name ("Jamal")
+
 
 
 
